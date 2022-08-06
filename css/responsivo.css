@@ -1,32 +1,32 @@
 @media (max-width: 620px) {
     .barbie-slider {
-        padding: 0 15px;
-        gap: 10px;
+        padding: 0 10px;
+        gap: 8px;
     }
 
     .btn-seta {
-        width: 20px;
-        height: 20px;
-        padding: 20px;
+        width: 15px;
+        height: 15px;
+        padding: 15px;
         display: flex;
         justify-content: center;
         align-items: center;
     }
 
     .lista-barbie {
-        height: 480px;
+        height: 400px;
     }
 
     .cartao .imagem-barbie {
-        max-height: 230px;
+        max-height: 200px;
     }
 
     .cartao .informacoes .nome {
-        max-width: 50%;
-        font-size: 18px;
+        max-width: 40%;
+        font-size: 16px;
     }
 
     .cartao .informacoes .ano {
-        font-size: 14px;
+        font-size: 12px;
     }
 }
